@@ -1,0 +1,13 @@
+prefix,serving_office,parish_approx,status,address,latitude,longitude,proxy_confidence,notes
+HM,General Post Office (Hamilton GPO),City of Hamilton (Pembroke),active,"56 Church St, Hamilton HM 12",32.294131,-64.782266,low,"Island-wide boxholders rent here; coordinate reflects the GPO, NOT where the holder lives/operates. Treat HM as parish-unknown."
+GE,St. George's Post Office,St. George's,active,"11 Water St, St. George's",32.380804,-64.677835,medium,"Town of St. George"
+DV,Devonshire Post Office,Devonshire,active,"2 Orange Valley Rd, Devonshire DV 06",32.298824,-64.761345,medium,
+WK,Warwick Post Office,Warwick,active,"70 Middle Rd, Warwick WK 03",32.266566,-64.806167,medium,
+MA,Mangrove Bay Post Office,Sandys,active,"Mangrove Bay Rd, Somerset Village",32.303819,-64.866106,medium,"Northern Sandys / Somerset Village"
+SN,Southampton Post Office,Southampton,active,"2 Church Rd, Southampton SN 01",32.253553,-64.846402,medium,
+PG,Paget Post Office,Paget,active,"Middle Rd, Paget PG 03",32.282517,-64.775816,medium,
+CR,Crawl Post Office,Hamilton Parish,active,"42 Radnor Rd, Hamilton CR 01",32.340000,-64.736395,medium,"Crawl / Bailey's Bay area, eastern Hamilton Parish (not Hamilton city)"
+FL,Flatt's Post Office,Smith's,active,"65 Middle Rd, Flatts Village",32.319625,-64.736152,medium,"Flatts Village straddles the Smith's / Hamilton Parish border"
+DD,St. David's (branch closed ~2014),St. George's,closed-area-centroid,"St. David's Island (anchored to St. David's Lighthouse)",32.364002,-64.651807,low,"Counter closed ~2014; delivery continues. Approx area centroid - verify, or fall back to GE."
+HS,Harrington Sound (branch closed ~2014),Smith's,closed-area-centroid,"Harrington Sound area (anchored near Harrington Sound)",32.321977,-64.725353,low,"Counter closed ~2014; delivery continues. Approx area centroid - verify, or fall back to FL."
+SB,Somerset Bridge (branch closed ~2014),Sandys,closed-area-centroid,"Somerset Bridge, southern Sandys",32.275000,-64.866000,low,"Counter closed ~2014; delivery continues. Coordinate is an APPROXIMATE Somerset Bridge locality - verify, or fall back to MA (same parish)."
